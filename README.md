@@ -40,7 +40,6 @@ Install FastAPI and uvicorn:
 
 ```
 pip install fastapi uvicorn
-
 ```
 Run the FastAPI server:
 
