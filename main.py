@@ -37,4 +37,4 @@ def scan_port(ip: str, start: int = 7990, end: int = 8001):
 
 @app.get("/")
 def read_root():
-    return {"message": "Bienvenue dans ton scanner local"}
+    return {"message": "Welcome to your Local Scanner"}

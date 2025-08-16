@@ -36,11 +36,11 @@ cd port-viewer
 ```
 
 ### 2. Backend (FastAPI)
-Go to the backend folder and install dependencies:
+Install FastAPI and uvicorn:
 
 ```
-cd backend
-pip install -r requirements.txt
+pip install fastapi uvicorn
+
 ```
 Run the FastAPI server:
 
